@@ -1,0 +1,532 @@
+{
+    "products": [
+        {
+            "name": "Reddit",
+            "category": "tech",
+            "price": 25.50,
+            "currency": "USD",
+            "image": {
+                "src": "https://ih1.redbubble.net/image.682082455.7455/ra,fitted_v_neck,x1860,45474B:e9c9d4e890,front-c,306,378,600,600-bg,f8f8f8.u2.jpg",
+                "alt": "Reddit"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    },
+                    {
+                        "src": "",
+                        "alt": ""
+                    },
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "C++ Premium",
+            "category": "tech",
+            "price": 40.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://ih1.redbubble.net/image.678572358.4438/ssrco,mens_premium_t_shirt,mens,fafafa:ca443f4786,front,square_product,x600-bg,f8f8f8.1.jpg",
+                "alt": "C++ Premium"
+            },
+            "bestseller": true,
+            "featured": false,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "JSON Essential",
+            "category": "tech",
+            "price": 21.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://ih1.redbubble.net/image.40703899.9107/ssrco,slim_fit_t_shirt,mens,101010:01c5ca27c6,front,square_product,600x600.u3.jpg",
+                "alt": "JSON Essential"
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "JSON Classic",
+            "category": "tech",
+            "price": 23.75,
+            "currency": "USD",
+            "image": {
+                "src": "https://ih1.redbubble.net/image.398734608.2498/ssrco,classic_tee,womens,fafafa:ca443f4786,front_alt,square_product,600x600.u12.jpg",
+                "alt": "JSON Classic"
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "The loud case",
+            "category": "people",
+            "price": 25.52,
+            "currency": "USD",
+            "image": {
+                "src": "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/14934394/2021/7/26/ab7c93ce-0cb3-429e-a2c8-a0e6ee30fc1e1627298297272PeopleWomenWhitePrintedAppliqueT-shirt1.jpg",
+                "alt": "The loud case"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Me we",
+            "category": "people",
+            "price": 18.96,
+            "currency": "USD",
+            "image": {
+                "src": "https://assets.myntassets.com/f_webp,dpr_2.0,q_60,w_210,c_limit,fl_progressive/assets/images/15002810/2021/8/3/2b2bbb4b-a01b-40dc-bcc4-6d5fbf872f571627976537167PeopleWomenNavyBlueTypographyPrintedT-shirt1.jpg",
+                "alt": "Me we"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ew People",
+            "category": "people",
+            "price": 17.59,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/29516703/c/1686/1340/591/180/il/428946/3122512018/il_340x270.3122512018_c0eu.jpg",
+                "alt": "Ew People"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Patriotic",
+            "category": "people",
+            "price": 19.48,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/12726817/r/il/627abd/2513736619/il_340x270.2513736619_ffry.jpg",
+                "alt": "Patriotic"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Github Octocat",
+            "category": "landmarks",
+            "price": 30.24,
+            "currency": "USD",
+            "image": {
+                "src": "https://ih1.redbubble.net/image.849196563.7755/ra,relaxed_fit,x1860,fafafa:ca443f4786,front-c,319,380,600,600-bg,f8f8f8.u3.jpg",
+                "alt": "Github Octocat"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Continental Divivide",
+            "category": "landmarks",
+            "price": 19.26,
+            "currency": "USD",
+            "image": {
+                "src": "https://www.backcountrygear.com/media/catalog/product/cache/cbf8ca5a7b8c68c3d9556c2ff6d280ca/c/o/continental-divide-trail-cactus.jpg",
+                "alt": "Devops"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Smith rock",
+            "category": "landmarks",
+            "price": 20.56,
+            "currency": "USD",
+            "image": {
+                "src": "https://www.backcountrygear.com/media/catalog/product/cache/cbf8ca5a7b8c68c3d9556c2ff6d280ca/s/c/screen_shot_2016-06-30_at_10.01.jpg",
+                "alt": "Smith rock"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "North Cascade",
+            "category": "landmarks",
+            "price": 17.36,
+            "currency": "USD",
+            "image": {
+                "src": "https://www.backcountrygear.com/media/catalog/product/cache/cbf8ca5a7b8c68c3d9556c2ff6d280ca/n/o/north-cascades-clay-tee-2_1728x1728.jpg",
+                "alt": "North Cascade"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "USA national park",
+            "category": "landmarks",
+            "price": 21.78,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.ebayimg.com/thumbs/images/g/zeUAAOSwZaFhFLzf/s-l300.webp",
+                "alt": "USA national park"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Starry night",
+            "category": "abstract",
+            "price": 26.46,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/16615387/c/1562/1241/213/46/il/85bda1/3226323845/il_340x270.3226323845_98n1.jpg",
+                "alt": "Starry night"
+            },
+            "bestseller": false,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Black or White",
+            "category": "artworks",
+            "price": 20.10,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/23084415/c/1111/883/394/171/il/b40674/2446808095/il_340x270.2446808095_cu1s.jpg",
+                "alt": "Black or White"
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Caravagggio",
+            "category": "artworks",
+            "price": 19.32,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/25101507/r/il/92a128/3060204692/il_340x270.3060204692_qc8b.jpg",
+                "alt": "Caravagggio"
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "I love art",
+            "category": "artworks",
+            "price": 30.24,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/13557012/r/il/82279d/2539519786/il_340x270.2539519786_dblz.jpg",
+                "alt": "I love art"
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "Backbone Logotype T-shirt for adults and kids",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Matisse Painting",
+            "category": "artworks",
+            "price": 27.72,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/22533500/r/il/ec6da0/2285045324/il_340x270.2285045324_mp7o.jpg",
+                "alt": "Matisse Painting"
+            },
+            "bestseller": true,
+            "featured": true,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "Programmer Siluette T-shirt for adults and kids",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Unimpressedd Frog",
+            "category": "artworks",
+            "price": 21.15,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/27018469/r/il/3e72a0/2778110728/il_340x270.2778110728_33gl.jpg",
+                "alt": "Unimpressedd Frog"
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "Social Media Essentials T-shirt for adults and kids",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Peace Love",
+            "category": "artworks",
+            "price": 23.58,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.etsystatic.com/27031746/c/1722/1369/397/250/il/09f7b9/3229207474/il_340x270.3229207474_h2lu.jpg",
+                "alt": "Peace Love"
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": {
+                "dimmentions": {
+                    "width": 600,
+                    "height": 600
+                },
+                "size": 15000,
+                "description": "Mail Chimps Essential Classic T-shirt for adults and kids",
+                "recommendations": [
+                    {
+                        "src": "",
+                        "alt": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
