@@ -10,7 +10,7 @@ interface IPopularProducts {
 const PopularProducts: VFC<IPopularProducts> = ({
     products
 }) => {
-    const popular = useMemo(() => products.filter((item: Products) => item.bestseller).slice(0, 3), []);
+    const popular = useMemo(() => products.filter((item: Products) => item.bestseller).slice(0, 3), [products]);
 
     return (
         <>

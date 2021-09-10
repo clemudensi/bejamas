@@ -7,7 +7,9 @@ const sortByField = (field: string, sortOrder: string) => {
     const invert = sortOrder === 'asc' ? 1 : -1;
 
     return function(a: any, b: any) {
-      return a = key(a), b = key(b), invert * (((a > b) as any) - ((b > a) as any));
+        a = key(a);
+        b = key(b);
+      return invert * (((a > b) as any) - ((b > a) as any));
     }
 };
 

@@ -33,7 +33,7 @@ const HomePage: VFC = (props) => {
     const handlePagination = useCallback(({activePage}: any) => {
         setActivePage(activePage);
         history.push(`?page=${activePage}`);
-    }, []);
+    }, [history]);
 
     const handleAddToCart = (productId: string): void => {
         const cartItem = allProducts.find(({ id }) => id === productId);
